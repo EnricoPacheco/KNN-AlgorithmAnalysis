@@ -2,7 +2,7 @@
 
 This is the repository for the first assignment of the 'Machine Learning I' course, which focuses on implementing changes in a machine learning algorithm.
 
-Group: [Enrico Pacheco Sanchez](https://github.com/EnricoPacheco) | [Enzo Nascentes Grigório](https://github.com/egrigorio) |  Matheus Goncalves Guerra
+Group: [Enrico Pacheco Sanchez](https://github.com/EnricoPacheco) | [Enzo Nascentes Grigório](https://github.com/egrigorio) |  [Matheus Goncalves Guerra](https://github.com/mtsguerra)
 
 # Phase 1
   In the initial phase of this project, we established a robust experimental baseline by using a manual k-Nearest Neighbors (kNN) classifier. Our focus was on analyzing the model's behavior when exposed to Group 1: Noise and Outliers. To ensure a deep understanding of the algorithm's mechanics, we avoided high-level library implementations and developed the logic for Euclidean distance and majority voting using as base the implementation in: https://github.com/rushter/MLAlgorithms/tree/master .
